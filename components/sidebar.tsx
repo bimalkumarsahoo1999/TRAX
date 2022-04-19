@@ -107,6 +107,7 @@ const Sidebar = () => {
             ))}
           </List>
         </Box>
+        <Box marginBottom="15px" />
         <Divider color="gray.800" />
         <Box height="66%" overflow="auto" paddingY="20px">
           <List spacing={2}>
