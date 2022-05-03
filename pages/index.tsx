@@ -28,7 +28,7 @@ const Home = ({ artists }) => {
             <Box paddingX="10px" width="20%">
               <Box bg="gray.900" borderRadius="4px" padding="15px" width="100%">
                 <Image
-                  src="https://assets.gqindia.com/photos/60c86d887829f66368dd34be/1:1/w_1080,h_1080,c_limit/Lil%20Dicky.jpg"
+                  src="https://lh3.googleusercontent.com/xNki4DddWaRXGMd1tZ9mM3TmiH0mVrwKAOUzhOxsLns-ecA_S7bwu8Ot3Z6MrQgkIfvxGyGMVbcVBTZS4MHzJzfd3uffnaYiKTCqzg=w600"
                   borderRadius="100%"
                 />
                 <Box marginTop="20px">
